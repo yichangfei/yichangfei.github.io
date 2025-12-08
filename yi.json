@@ -4,7 +4,7 @@
     "name": "量子资源",
     "api": "http://cj.lziapi.com/api.php/provide/vod",
     "nsfw": false,
-    "logo": "https://github.com/yichangfei/yichangfeiM1/blob/main/logo.png",
+    "logo": "https://yichangfei.github.io/logo.png",
     "type": 0,
     "extra": {
       "gfw": false
@@ -14,7 +14,7 @@
     "id": "feifanziyuan2",
     "name": "非凡资源2",
     "api": "http://www.ffzy.tv/api.php/provide/vod",
-    "logo": "http://cj.ffzyapi.com/template/ffzy/static/picture/logo.png",
+    "logo": "https://yichangfei.github.io/logo.png",
     "nsfw": false,
     "type": 0,
     "extra": {
@@ -25,7 +25,7 @@
     "id": "alibb",
     "name": "阿里BB资源",
     "api": "https://www.siwazyw.tv/api.php/provide/vod/at/json",
-    "logo": "https://github.com/yichangfei/yichangfeiM1/blob/main/logo.png",
+    "logo": "https://yichangfei.github.io/logo.png",
     "nsfw": false,
     "type": 0,
     "extra": {
@@ -36,7 +36,7 @@
     "id": "yinhua",
     "name": "樱花资源",
     "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
-    "logo": "https://github.com/yichangfei/yichangfeiM1/blob/main/logo.png",
+    "logo": "https://yichangfei.github.io/logo.png",
     "nsfw": false,
     "type": 0,
     "extra": {
@@ -47,7 +47,7 @@
     "id": "laoseb",
     "name": "老色b资源",
     "api": "https://apilsbzy1.com/api.php/provide/vod",
-    "logo": "https://github.com/yichangfei/yichangfeiM1/blob/main/logo.png",
+    "logo": "https://yichangfei.github.io/logo.png",
     "nsfw": false,
     "type": 0,
     "extra": {
@@ -58,7 +58,7 @@
     "id": "zuiseziy",
     "name": "最色资源",
     "api": "https://api.zuiseapi.com/api.php/provide/vod",
-    "logo": "https://github.com/yichangfei/yichangfeiM1/blob/main/logo.png",
+    "logo": "https://yichangfei.github.io/logo.png",
     "nsfw": false,
     "type": 0,
     "extra": {
@@ -69,7 +69,7 @@
     "id": "yinhuaship",
     "name": "桃花视频",
     "api": "https://thzy1.me/api.php/provide/vod",
-    "logo": "https://github.com/yichangfei/yichangfeiM1/blob/main/logo.png",
+    "logo": "https://yichangfei.github.io/logo.png",
     "nsfw": false,
     "type": 0,
     "extra": {
@@ -80,7 +80,7 @@
     "id": "ddziyuan",
     "name": "滴滴资源",
     "api": "https://api.ddapi.cc/api.php/provide/vod",
-    "logo": "https://github.com/yichangfei/yichangfeiM1/blob/main/logo.png",
+    "logo": "https://yichangfei.github.io/logo.png",
     "nsfw": false,
     "type": 0,
     "extra": {
@@ -91,7 +91,7 @@
     "id": "siwaziy",
     "name": "丝袜资源",
     "api": "https://www.siwazyw.tv/api.php/provide/vod/at/json",
-    "logo": "https://github.com/yichangfei/yichangfeiM1/blob/main/logo.png",
+    "logo": "https://yichangfei.github.io/logo.png",
     "nsfw": false,
     "type": 0,
     "extra": {
@@ -102,7 +102,7 @@
     "id": "naixiangxiang",
     "name": "奶香香资源",
     "api": "https://naixxzy.com/api.php/provide/vod",
-    "logo": "https://github.com/yichangfei/yichangfeiM1/blob/main/logo.png",
+    "logo": "https://yichangfei.github.io/logo.png",
     "nsfw": false,
     "type": 0,
     "extra": {
@@ -113,7 +113,7 @@
     "id": "Xxibaoziyuan",
     "name": "X细胞资源",
     "api": "https://www.xxibaozyw.com/api.php/provide/vod",
-    "logo": "https://github.com/yichangfei/yichangfeiM1/blob/main/logo.png",
+    "logo": "https://yichangfei.github.io/logo.png",
     "nsfw": false,
     "type": 0,
     "extra": {
@@ -124,7 +124,7 @@
     "id": "91shipin",
     "name": "91视频",
     "api": "https://91av.cyou/api.php/provide/vod",
-    "logo": "https://github.com/yichangfei/yichangfeiM1/blob/main/logo.png",
+    "logo": "https://yichangfei.github.io/logo.png",
     "nsfw": false,
     "type": 0,
     "extra": {
