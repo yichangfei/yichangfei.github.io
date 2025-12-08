@@ -1,0 +1,22 @@
+[
+  {
+    "id": "yinhua",
+    "name": "桃花视频",
+    "api": "https://thzy1.me/api.php/provide/vod",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "ddziyuan",
+    "name": "滴滴资源",
+    "api": "https://api.ddapi.cc/api.php/provide/vod",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "laoseb",
+    "name": "老色b资源",
+    "api": "https://apilsbzy1.com/api.php/provide/vod",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "zuise",
+    "name": "最色资源",
+    "api": "https://api.zuiseapi.com/api.php/provide/vod",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  }
+]

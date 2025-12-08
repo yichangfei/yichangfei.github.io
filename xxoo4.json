@@ -1,0 +1,22 @@
+[
+  {
+    "id": "siwa",
+    "name": "丝袜资源",
+    "api": "https://www.siwazyw.tv/api.php/provide/vod/at/json",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "naixiangx",
+    "name": "奶香香资源",
+    "api": "https://naixxzy.com/api.php/provide/vod",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  }
+]
