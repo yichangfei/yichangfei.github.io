@@ -1,0 +1,13 @@
+[
+  {
+    "id": "baofeng",
+    "name": "暴风",
+    "api": "https://bfzyapi.com/api.php/provide/vod",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+ 
+]

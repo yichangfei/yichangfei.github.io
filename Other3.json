@@ -1,0 +1,22 @@
+[
+  {
+    "id": "chulian",
+    "name": "初恋",
+    "api": "https://video.adminqt.cn/api.php/provide/vod/",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "360",
+    "name": "360官源",
+    "api": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/lib/drpy2.min.js",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  }
+]

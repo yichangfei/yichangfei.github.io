@@ -1,0 +1,22 @@
+[
+  {
+    "id": "xiaohu",
+    "name": "小胡",
+    "api": "http://xh1.xn--yetu07f.icu/api.php/provide/vod/",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "fuju",
+    "name": "腐剧",
+    "api": "http://www.fuju2024.cc:8013/ruifenglb_api.php/v1.vod",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  }
+]
