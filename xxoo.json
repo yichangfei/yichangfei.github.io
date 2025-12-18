@@ -1,0 +1,102 @@
+[
+  {
+    "id": "Xxibaoziyuan",
+    "name": "X细胞资源",
+    "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "91shipin",
+    "name": "91视频",
+    "api": "https://91av.cyou/api.php/provide/vod/",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+{
+    "id": "alibb",
+    "name": "阿里BB资源",
+    "api": "https://www.siwazyw.tv/api.php/provide/vod",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "yinhua",
+    "name": "樱花资源",
+    "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+{
+    "id": "laoseb",
+    "name": "老色b资源",
+    "api": "https://apilsbzy1.com/api.php/provide/vod",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "zuise",
+    "name": "最色资源",
+    "api": "https://api.zuiseapi.com/api.php/provide/vod",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+{
+    "id": "yinhua",
+    "name": "桃花视频",
+    "api": "https://thzy1.me/api.php/provide/vod",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "ddziyuan",
+    "name": "滴滴资源",
+    "api": "https://api.ddapi.cc/api.php/provide/vod",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+{
+    "id": "siwa",
+    "name": "丝袜资源",
+    "api": "https://www.siwazyw.tv/api.php/provide/vod/at/json",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "naixiangx",
+    "name": "奶香香资源",
+    "api": "https://naixxzy.com/api.php/provide/vod",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  }
+]
