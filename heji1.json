@@ -9,26 +9,7 @@
       "gfw": false
     }
   },
-  {
-    "id": "douban",
-    "name": "豆瓣",
-    "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
-    "nsfw": false,
-    "type": 0,
-    "extra": {
-      "gfw": false
-    }
-  },
- {
-    "id": "douban2",
-    "name": "豆瓣2",
-    "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js",
-    "nsfw": false,
-    "type": 0,
-    "extra": {
-      "gfw": false
-    }
-  },
+  
 {
     "id": "baofeng",
     "name": "暴风",
@@ -49,4 +30,5 @@
       "gfw": false
     }
   }
+
 ]
